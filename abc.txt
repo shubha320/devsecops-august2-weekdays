@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 again modified the file
+=======
+Task
+modified file
+>>>>>>> 223d7fb2eaae8a336b35858e72f3b77562bffc45
